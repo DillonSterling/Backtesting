@@ -1,0 +1,3 @@
+If SMA(50) is above SMA(100)
+	Buy when price crosses and closes above SMA(50) with volume above daily average volume and when the 	EMA(5) of the Delta-EMA(5) is positive
+	Take profit when the price peaks: When the EMA(5) of the Delta-EMA(5) crosses 0 from increasing to 		decreasing
